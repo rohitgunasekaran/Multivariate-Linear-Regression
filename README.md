@@ -14,14 +14,19 @@ To write a python program to implement multivariate linear regression and predic
 ### Step3
 <br>
 Get the value of X and y variables.
+
 ### Step4
 <br>
 Create the linear regression model and fit.
+
 ### Step5
 <br>
 predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm3.
 
-Step6 : Print the predicted output.
+
+### Step6 
+Print the predicted output.
+
 ## Program:
 ```
 #Developed by : rohit g
